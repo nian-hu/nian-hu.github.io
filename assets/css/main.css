@@ -2645,4 +2645,10 @@ input, select, textarea {
 				opacity: 0.5;
 			}
 
-	}
+  }
+  
+  .contact-info {
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-evenly;
+  }
