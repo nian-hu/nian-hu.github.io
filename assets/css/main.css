@@ -2323,7 +2323,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				padding: 10em 0 12em 0;
+				padding: 5em 0 12em 0;
 			}
 
 	}
@@ -2651,4 +2651,11 @@ input, select, textarea {
     display: flex;
     margin: 0 auto;
     justify-content: space-evenly;
+  }
+
+  .headshot img {
+    border-radius: 50%;
+		height: 20%;
+		width: 20%;
+		margin: 0px 50px;
   }
