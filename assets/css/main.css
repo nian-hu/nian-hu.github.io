@@ -84,7 +84,7 @@ input, select, textarea {
 
 	body {
 		background-color: #183026;
-    /* background-image: url("images/overlay.png"), url("../../images/kayaking-thailand.jpg"); */
+    /* background-image: url("images/overlay.png"), url("../../images/new-zealand-road.jpg"); */
     background-image: linear-gradient(to top, rgba(77, 77, 77, 0.521), rgba(77, 77, 77, 0.521)), url("../../images/new-zealand-road.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
