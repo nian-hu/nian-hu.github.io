@@ -1502,7 +1502,7 @@ input, select, textarea {
 
 		.image.fit {
 			display: block;
-			width: 100%;
+			width: 80%;
 		}
 
 		.image.left {
@@ -2662,4 +2662,8 @@ input, select, textarea {
 
   .fab {
     font-size: 80px;
+  }
+
+  .skill {
+    color: white;
   }
